@@ -1,0 +1,13 @@
+# артефакты сборки C++
+/hbf
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# редакторы и ОС
+.DS_Store
+.idea/
+.vscode/
